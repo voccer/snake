@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySnack", "MySnack\MySnack.csproj", "{959F8B69-5FE6-495D-AE25-8E136E94DCCD}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "snacksetup", "snacksetup\snacksetup.isproj", "{EA20DD94-B97C-423B-9AA9-9488BA723E48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{959F8B69-5FE6-495D-AE25-8E136E94DCCD}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{959F8B69-5FE6-495D-AE25-8E136E94DCCD}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{959F8B69-5FE6-495D-AE25-8E136E94DCCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959F8B69-5FE6-495D-AE25-8E136E94DCCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959F8B69-5FE6-495D-AE25-8E136E94DCCD}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{959F8B69-5FE6-495D-AE25-8E136E94DCCD}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{959F8B69-5FE6-495D-AE25-8E136E94DCCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{959F8B69-5FE6-495D-AE25-8E136E94DCCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{959F8B69-5FE6-495D-AE25-8E136E94DCCD}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{959F8B69-5FE6-495D-AE25-8E136E94DCCD}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{EA20DD94-B97C-423B-9AA9-9488BA723E48}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
+		{EA20DD94-B97C-423B-9AA9-9488BA723E48}.CD_ROM|Any CPU.Build.0 = CD_ROM
+		{EA20DD94-B97C-423B-9AA9-9488BA723E48}.Debug|Any CPU.ActiveCfg = DVD-5
+		{EA20DD94-B97C-423B-9AA9-9488BA723E48}.Debug|Any CPU.Build.0 = DVD-5
+		{EA20DD94-B97C-423B-9AA9-9488BA723E48}.DVD-5|Any CPU.ActiveCfg = DVD-5
+		{EA20DD94-B97C-423B-9AA9-9488BA723E48}.DVD-5|Any CPU.Build.0 = DVD-5
+		{EA20DD94-B97C-423B-9AA9-9488BA723E48}.Release|Any CPU.ActiveCfg = SingleImage
+		{EA20DD94-B97C-423B-9AA9-9488BA723E48}.Release|Any CPU.Build.0 = SingleImage
+		{EA20DD94-B97C-423B-9AA9-9488BA723E48}.SingleImage|Any CPU.ActiveCfg = SingleImage
+		{EA20DD94-B97C-423B-9AA9-9488BA723E48}.SingleImage|Any CPU.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

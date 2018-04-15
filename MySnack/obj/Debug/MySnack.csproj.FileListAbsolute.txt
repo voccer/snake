@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2012\Projects\MySnack\MySnack\bin\Debug\MySnack.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\MySnack\MySnack\bin\Debug\MySnack.exe
+c:\users\administrator\documents\visual studio 2012\Projects\MySnack\MySnack\bin\Debug\MySnack.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\MySnack\MySnack\obj\Debug\MySnack.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\MySnack\MySnack\obj\Debug\MySnack.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\MySnack\MySnack\obj\Debug\MySnack.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\MySnack\MySnack\obj\Debug\MySnack.exe
+c:\users\administrator\documents\visual studio 2012\Projects\MySnack\MySnack\obj\Debug\MySnack.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\MySnack\MySnack\obj\Debug\MySnack.csprojResolveAssemblyReference.cache
